@@ -30,6 +30,15 @@
 
 ---
 
+## Screenshots
+
+![Home Screen](images/home_screen.jpeg)
+![Search Screen](images/search_screen.jpeg)
+![Medicine Details](images/medicine_details_screen.jpeg)
+![Profile](images/profile_screen.jpeg)
+
+---
+
 ## Tech Stack
 
 - **Frontend:** Flutter, Dart
