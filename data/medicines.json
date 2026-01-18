@@ -1,0 +1,93 @@
+{
+  "Paracetamol": {
+    "name": "Paracetamol",
+    "composition": "Paracetamol 500mg",
+    "pharmacyId": "Apollo Pharmacy",
+    "brands": [
+      { "brandName": "Crocin", "price": 15, "stock": 17 },
+      { "brandName": "Dolo 650", "price": 20, "stock": 9 },
+      { "brandName": "Calpol", "price": 18, "stock": 3 }
+    ]
+  },
+  "Ibuprofen": {
+    "name": "Ibuprofen",
+    "composition": "Ibuprofen 400mg",
+    "pharmacyId": "MedPlus Pharmacy",
+    "brands": [
+      { "brandName": "Brufen", "price": 25, "stock": 12 },
+      { "brandName": "Ibugesic", "price": 22, "stock": 4 }
+    ]
+  },
+  "Amoxicillin": {
+    "name": "Amoxicillin",
+    "composition": "Amoxicillin 500mg",
+    "pharmacyId": "CareWell Pharmacy",
+    "brands": [
+      { "brandName": "Moxikind", "price": 30, "stock": 15 },
+      { "brandName": "Amoxil", "price": 35, "stock": 10 }
+    ]
+  },
+  "Cetirizine": {
+    "name": "Cetirizine",
+    "composition": "Cetirizine 10mg",
+    "pharmacyId": "HealthMart",
+    "brands": [
+      { "brandName": "Cetzine", "price": 12, "stock": 20 },
+      { "brandName": "Allercet", "price": 15, "stock": 2 }
+    ]
+  },
+  "Azithromycin": {
+    "name": "Azithromycin",
+    "composition": "Azithromycin 500mg",
+    "pharmacyId": "LifeCare Pharmacy",
+    "brands": [
+      { "brandName": "Zithromax", "price": 50, "stock": 7 },
+      { "brandName": "Azomycin", "price": 45, "stock": 5 }
+    ]
+  },
+  "Metformin": {
+    "name": "Metformin",
+    "composition": "Metformin 500mg",
+    "pharmacyId": "Apollo Pharmacy",
+    "brands": [
+      { "brandName": "Gluformin", "price": 25, "stock": 18 },
+      { "brandName": "Metfor", "price": 22, "stock": 0 }
+    ]
+  },
+  "Vitamin C": {
+    "name": "Vitamin C",
+    "composition": "Vitamin C 500mg",
+    "pharmacyId": "MedPlus Pharmacy",
+    "brands": [
+      { "brandName": "C-Zen", "price": 10, "stock": 30 },
+      { "brandName": "Redoxon", "price": 12, "stock": 6 }
+    ]
+  },
+  "Omeprazole": {
+    "name": "Omeprazole",
+    "composition": "Omeprazole 20mg",
+    "pharmacyId": "CareWell Pharmacy",
+    "brands": [
+      { "brandName": "Omez", "price": 20, "stock": 9 },
+      { "brandName": "Losec", "price": 25, "stock": 8 }
+    ]
+  },
+  "Loratadine": {
+    "name": "Loratadine",
+    "composition": "Loratadine 10mg",
+    "pharmacyId": "HealthMart",
+    "brands": [
+      { "brandName": "Claritin", "price": 18, "stock": 12 },
+      { "brandName": "Loridin", "price": 15, "stock": 3 }
+    ]
+  },
+  "Paracetamol & Caffeine": {
+    "name": "Paracetamol & Caffeine",
+    "composition": "Paracetamol 500mg + Caffeine 65mg",
+    "pharmacyId": "LifeCare Pharmacy",
+    "brands": [
+      { "brandName": "Saridon", "price": 20, "stock": 10 },
+      { "brandName": "Excedrin", "price": 22, "stock": 5 }
+    ]
+  }
+}

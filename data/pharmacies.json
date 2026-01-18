@@ -1,0 +1,27 @@
+{
+  "Apollo Pharmacy": {
+    "name": "Apollo Pharmacy",
+    "address": "Hyderabad, Telangana",
+    "location": { "lat": 13.65, "lng": 79.427 }
+  },
+  "MedPlus Pharmacy": {
+    "name": "MedPlus Pharmacy",
+    "address": "Secunderabad, Telangana",
+    "location": { "lat": 13.64, "lng": 79.43 }
+  },
+  "CareWell Pharmacy": {
+    "name": "CareWell Pharmacy",
+    "address": "Hyderabad, Telangana",
+    "location": { "lat": 13.66, "lng": 79.425 }
+  },
+  "HealthMart": {
+    "name": "HealthMart",
+    "address": "Hyderabad, Telangana",
+    "location": { "lat": 13.63, "lng": 79.428 }
+  },
+  "LifeCare Pharmacy": {
+    "name": "LifeCare Pharmacy",
+    "address": "Secunderabad, Telangana",
+    "location": { "lat": 13.62, "lng": 79.426 }
+  }
+}
